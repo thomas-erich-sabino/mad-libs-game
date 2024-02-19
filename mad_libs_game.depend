@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708136763 source:c:\users\pc\desktop\c\vscodecncpp\mad_libs_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
